@@ -1,11 +1,11 @@
 
 # Software Engineer
 
-#### Technical Skills: Python, C#, Javascript, CSS, NodeJS, Swift, C, 
+#### Technical Skills: Python, C#, Javascript, CSS, NodeJS, C++, Swift, C, 
 
 ## Education
 - **Bachelors, Software Engineering** | Brigham Young University at Idaho (2024)							       		
-- Highschool Diploma, Thunderridge Highschool at Denver (2019)
+- Highschool Diploma | Thunderridge Highschool at Denver (2019)
 
 ## Work Experience
 **Sales Representative @ Aptive Environmental (2 years)**
