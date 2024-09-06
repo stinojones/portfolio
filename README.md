@@ -19,7 +19,8 @@
 ## Projects
 
 ### Typing Simulator
-I worked with a team on creating a Typing Simulator, which we further gamified. I enjoyed leading the team and pitching different ideas to implement (heat map, leaderboard, gloom-coin, shop-based). I practiced coding languages such as Node.js, CSS Animation, and Firebase.
+I worked with a team on creating a Typing Simulator, which we further gamified. I enjoyed leading the team and pitching different ideas to implement (heat map, leaderboard, gloom-coin, shop-based). I practiced coding languages such as NodeJS, CSS Animation, and Firebase.
+[Simulator Link](https://lil-gloomy.web.app)
 
 
 ### Social Media Development
