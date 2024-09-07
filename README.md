@@ -20,12 +20,15 @@
 
 ### Typing Simulator
 I worked with a team on creating a Typing Simulator, which we further gamified. I enjoyed leading the team and pitching different ideas to implement (heat map, leaderboard, gloom-coin, shop-based). I practiced coding languages such as NodeJS, CSS Animation, and Firebase.
-[Simulator Link](https://lil-gloomy.web.app)
+[Typing Simulator Link](https://lil-gloomy.web.app)
 
 
 ### Social Media Development
-Social Media Project on C sharp. It helped me focus on implementing OOP, abstraction, inheritance, and encapsulation. You can create an account, log in, post, like posts, and view your profile.
+Social Media Project on C#. It helped me focus on implementing OOP, abstraction, inheritance, and encapsulation. You can create an account, log in, post, like posts, and view your profile.
 [Github Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/stinojones/social-media-csharp))
+
+### Bandmate
+A website I created for musicians to collaborate or find different lessons to apply for from teachers. I worked with HTML, CSS
 
 
 
