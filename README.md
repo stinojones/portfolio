@@ -1,7 +1,7 @@
 
 # Software Engineer
 
-#### Technical Skills: Python, C#, Javascript, CSS, NodeJS, C++, Swift, C
+#### Technical Skills: Python, C#, Javascript, CSS, NodeJS, C++, Swift, C, Swift, mySQL
 
 ## Education
 - **Bachelors, Software Engineering** | Brigham Young University at Idaho (2024)							       		
