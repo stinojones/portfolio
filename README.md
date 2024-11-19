@@ -5,16 +5,6 @@
 
 ## Education
 - **Bachelors, Software Engineering** | Brigham Young University at Idaho (2024)							       		
-- Highschool Diploma | Thunderridge Highschool at Denver (2019)
-
-## Work Experience
-**Sales Representative @ Aptive Environmental (2 years)**
-- **Generated $150,000 in Revenue** while learning negotiation skills
-- Time management and Communication skills through pieces of training every morning, Mon-Sat
-
-**Home Caretaker @ Windcrest Senior Living (2 years)**
-- Provided help, support, and companionship for 20 clients
-- Patience with clients & organization with scheduling
 
 ## Projects
 
@@ -28,6 +18,16 @@ Social Media Project on C#. It helped me focus on implementing OOP, abstraction,
 
 ### Bandmate
 A website I created for musicians to collaborate or find different lessons to apply for from teachers. I worked with HTML, CSS
+## Work Experience
+**Sales Representative @ Aptive Environmental (2 years)**
+- **Generated $150,000 in Revenue** while learning negotiation skills
+- Time management and Communication skills through pieces of training every morning, Mon-Sat
+
+**Home Caretaker @ Windcrest Senior Living (2 years)**
+- Provided help, support, and companionship for 20 clients
+- Patience with clients & organization with scheduling
+
+
 
 
 
